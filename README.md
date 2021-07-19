@@ -1,6 +1,6 @@
 ## Solving regression and classification tasks with ML - Abalone
 ---
-A Jupyter notebook with an example of solving regression and classification tasks using ML tools and algorithms (scikit-learn, XGBoost, LightGBM).
+A Jupyter notebook with an example of solving regression and classification tasks using ML tools and algorithms (**scikit-learn**, **XGBoost**, **LightGBM**).
 ### Overview:
 ---
 The objective of the project is to learn how machine learning tools and algorithms work in practice. To do this, a dataset was selected as an example, in which the target (the age of abalone) it can be predicted using both regression and classification algorithms.  The Jupyter notebook describes the following stages of work: 
